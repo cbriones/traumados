@@ -1,4 +1,4 @@
-
+![logo](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x translucent 3er gauss0,5-2.png)
 
 ![logo sin filtro](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x.png)
 
