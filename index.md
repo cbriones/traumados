@@ -8,5 +8,5 @@
 
 ![logo con irfan filtro micro](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x elecMicro.png)
 
-![logo con irfan filtro micro](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x metal casting2.png)
+![logo](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x metal casting2.png)
 
