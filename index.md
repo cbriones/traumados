@@ -15,3 +15,6 @@
 ![logo](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x ridged border.png)
 
 ![logo](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x specular light.png)
+
+![logo](/traumados/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x translucent.jpg)
+
