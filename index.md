@@ -1,4 +1,4 @@
-![logo](TRAUMADOS con alas2_8000px.png)
+![logo](/traumados/docs/assets/images/TRAUMADOS con alas2_8000px.png)
 
 ![logo](/traumados/docs/assets/images/TRAUMADOS B&N waifu 2x grunge texture 6000px hor alado thick blanco.png)
 
